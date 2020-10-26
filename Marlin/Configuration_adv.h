@@ -811,7 +811,7 @@
   //#define ASSISTED_TRAMMING_MENU_ITEM // Add a menu item for Assisted Tramming
 
   /**
-   * Screw thread:
+   * Screw thread and turn direction which raises bed:
    *   M3: 30 = Clockwise, 31 = Counter-Clockwise
    *   M4: 40 = Clockwise, 41 = Counter-Clockwise
    *   M5: 50 = Clockwise, 51 = Counter-Clockwise
